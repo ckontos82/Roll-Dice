@@ -1,0 +1,14 @@
+C:\Users\harko\source\repos\DiceApp\DiceApp\bin\Debug\net7.0\DiceApp.exe
+C:\Users\harko\source\repos\DiceApp\DiceApp\bin\Debug\net7.0\DiceApp.deps.json
+C:\Users\harko\source\repos\DiceApp\DiceApp\bin\Debug\net7.0\DiceApp.runtimeconfig.json
+C:\Users\harko\source\repos\DiceApp\DiceApp\bin\Debug\net7.0\DiceApp.dll
+C:\Users\harko\source\repos\DiceApp\DiceApp\bin\Debug\net7.0\DiceApp.pdb
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.AssemblyInfoInputs.cache
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.AssemblyInfo.cs
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.csproj.CoreCompileInputs.cache
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.dll
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\refint\DiceApp.dll
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.pdb
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\DiceApp.genruntimeconfig.cache
+C:\Users\harko\source\repos\DiceApp\DiceApp\obj\Debug\net7.0\ref\DiceApp.dll
